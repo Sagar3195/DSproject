@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/PythonCSV/CSV_file/mlprojecthindi/mlruns/0/7ea9e541f8bb4484b0396bb94a7b934e/artifacts
+end_time: 1695793353560
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ea9e541f8bb4484b0396bb94a7b934e
+run_name: masked-snipe-176
+run_uuid: 7ea9e541f8bb4484b0396bb94a7b934e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1695793308170
+status: 3
+tags: []
+user_id: root
